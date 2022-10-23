@@ -12,6 +12,7 @@ ShoGoSs, a board game of cosmic horror that amalgamates Shogi, Go and chess
 
 <ul>
 <li>g が一個の ShoGoSs アカウントが既に GitHub 上で取られていたので、g 二つで Organization を立てました</li>
-<li>あと、原語でのショゴスの綴りが Shoggoth で、しかも <strong><ins>Shog</ins></strong>i + <strong><ins>Go</ins></strong> + Che<strong><ins>ss</ins></strong> という要件は満たしているので</li>
+<li>あと、原語でのショゴスの綴りが Shoggoth で g が二つだったりしますし</li>
+<li>しかも g が二つでも <strong><ins>Shog</ins></strong>i + <strong><ins>Go</ins></strong> + Che<strong><ins>ss</ins></strong> という要件は満たしています</li>
 <li>narazaka さんのサイトの URL は g 一つ s 一つですし、綴りが安定せず混沌としているのもコズミックホラー的で素晴らしいと思います
 </ul>
