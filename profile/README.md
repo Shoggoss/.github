@@ -1,6 +1,12 @@
 # ShoGoSs
 
-ShoGoSs, a board game of cosmic horror that amalgamates Shogi, Go and chess
+## What is ShoGoSs?
+
+ShoGoSs is a board game of cosmic horror that amalgamates Shogi, Go and chess.
+
+## しょ碁スとは？
+
+将棋・碁・チェスが融合して生まれた、コズミックホラー的なボードゲーム
 
 ## 偉大なる先駆者様方 / The Great Old Ones
 
